@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1e2991d0-1ec8-4b79-895f-39c721699a28"
+      }
+    },
+    "owner": "jasowills"
   }
 }
